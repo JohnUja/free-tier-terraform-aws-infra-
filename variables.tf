@@ -18,12 +18,6 @@ variable "vpc_cidr" {
   }
 }
 
-variable "aws_profile" {
-  description = "The AWS profile to use for authentication"
-  type        = string
-  default     = "default"
-}
-
 variable "public_subnet_cidr" {
   description = "CIDR block for the public subnet"
   type        = string
