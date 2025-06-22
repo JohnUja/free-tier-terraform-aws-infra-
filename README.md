@@ -57,13 +57,16 @@ The following images from the Terraform Cloud workspace serve as proof that the 
 
 *This screenshot shows the successful completion of a run triggered by a `git push` to the `main` branch, demonstrating a working GitOps pipeline.*
 
-**(placeholder_for_run_screenshot.png)**
+**(run.png)**
+<img width="1439" alt="Screenshot 2025-06-21 at 8 27 30 PM" src="https://github.com/user-attachments/assets/2d6fbe48-924a-41c6-abcd-7aed74211ea8" />
+
 
 ### Managed Resources
 
 *This screenshot lists the 13 infrastructure resources being managed by Terraform Cloud, confirming its control over the live AWS environment.*
 
-**(placeholder_for_resources_screenshot.png)**
+**(Resources.png)**
+<img width="1440" alt="Screenshot 2025-06-21 at 8 13 53 PM" src="https://github.com/user-attachments/assets/50b3b348-8c28-438e-b745-499b571091bc" />
 
 ## Core Infrastructure Components
 
