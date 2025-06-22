@@ -87,10 +87,5 @@ The following images from the Terraform Cloud workspace serve as proof that the 
 4.  **Plan:** Terraform Cloud automatically runs a `terraform plan` to determine the necessary changes.
 5.  **Apply:** After manual approval in the Terraform Cloud UI, the changes are applied to the AWS account.
 
-## Next Steps
 
-This foundational project is now complete. You can view the live, managed state of this infrastructure in your Terraform Cloud workspace. From here, you could:
 
--   Add EC2 instances, RDS databases, or load balancers that use this network foundation.
--   Create a new branch in this repository to experiment with changes, seeing the proposed plan in Terraform Cloud before merging.
--   Showcase this repository and your Terraform Cloud workspace to demonstrate your cloud and DevOps skills. 
